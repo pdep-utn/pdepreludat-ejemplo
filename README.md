@@ -9,7 +9,7 @@ Repo con el pdepreludat ya setupeado como para usar de ejemplo para empezar proy
 
 ## Ahora sí
 
-1. Clonar el repo: `https://github.com/JuanFdS/pdepreludat-ejemplo.git` o `git@github.com:JuanFdS/pdepreludat-ejemplo.git`
+1. Clonar el repo: `https://github.com/pdep-utn/pdepreludat-ejemplo.git` o `git@github.com:pdep-utn/pdepreludat-ejemplo.git`
 
 2. Moverse a la carpeta del repo: `cd pdepreludat-ejemplo`.
 
