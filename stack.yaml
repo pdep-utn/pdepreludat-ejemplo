@@ -36,9 +36,12 @@ resolver: lts-15.3
 packages:
 - .
 
+ghc-options:
+  pdeprelude: -haddock
+
 extra-deps:
 - git: https://github.com/10Pines/pdepreludat.git
-  commit: 5da1a7de5089856fa1cdade70271237ca866ec9f
+  commit: f75808872dd3bfaafd55ba4b7a1be6b870b918a2
 
 # Dependency packages to be pulled from upstream that are not in the resolver
 # using the same syntax as the packages field.

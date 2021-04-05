@@ -1,7 +1,7 @@
 # pdepreludat-ejemplo
 Repo con el pdepreludat ya setupeado como para usar de ejemplo para empezar proyectos en haskell nuevos.
 
-# ¿Como uso esto?
+# ¿Cómo uso esto?
 
 ## Prerrequisito
 
@@ -25,7 +25,7 @@ Repo con el pdepreludat ya setupeado como para usar de ejemplo para empezar proy
 
 A partir de acá, podés:
 
-- Abrir el interprete para probar cosas: `stack ghci`
+- Abrir el intérprete para probar cosas: `stack ghci`
   ![Algunos ejemplos en ghci: 2 + 2 retorna 4, "hello" ++ "!" retorna "hello!"](https://i.imgur.com/43CPlAm.png)
 
 - Escribir nuevo código en `src/Library.hs` y probarlo con tests que se escriben en `test/Spec.hs`
@@ -33,5 +33,5 @@ A partir de acá, podés:
   
 # ¿Qué es el PdePreludat?
 
-Es una librería que cambia un poco lo que sería la librería estandar que usa Haskell automáticamente (la cual se llama Prelude). Idealmente simplifica algunas cosas que no son necesarias a la materia y mejora algunos mensajes de error.
+Es una biblioteca que cambia un poco lo que sería la biblioteca estandar que usa Haskell automáticamente (la cual se llama Prelude). Idealmente simplifica algunas cosas que no son necesarias a la materia y mejora algunos mensajes de error.
 Para leer más sobre esto: https://github.com/10Pines/pdepreludat

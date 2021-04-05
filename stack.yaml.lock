@@ -5,19 +5,16 @@
 
 packages:
 - completed:
-    cabal-file:
-      size: 1733
-      sha256: db3fc05cf1efa482f9e8713bddf5d7265add75679c35e701fb7daf332497719f
     name: pdeprelude
     version: 0.2.0.0
     git: https://github.com/10Pines/pdepreludat.git
     pantry-tree:
-      size: 1680
-      sha256: e8670418d04e609179cbb75139b163b536eb7d274a91ff833b4c3d55196761d9
-    commit: 5da1a7de5089856fa1cdade70271237ca866ec9f
+      size: 2542
+      sha256: e7f11193d43e5f65aacc57f110e9926a5ad50359b12f166f68bc6006465426e8
+    commit: f75808872dd3bfaafd55ba4b7a1be6b870b918a2
   original:
     git: https://github.com/10Pines/pdepreludat.git
-    commit: 5da1a7de5089856fa1cdade70271237ca866ec9f
+    commit: f75808872dd3bfaafd55ba4b7a1be6b870b918a2
 snapshots:
 - completed:
     size: 491373
