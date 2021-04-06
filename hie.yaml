@@ -1,7 +1,2 @@
 cradle:
   stack:
-    - path: "./src"
-      component: "pdepreludat-ejemplo:lib"
-
-    - path: "./test"
-      component: "pdepreludat-ejemplo:test:pdepreludat-ejemplo-test"
